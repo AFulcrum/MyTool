@@ -1,18 +1,17 @@
 
 ---
 # 索引
-- [[#远程控制]]
-	1. [[#AnyDesk]]
-	2. [[#RustDesk]]
-- [[#虚拟局域网]]
-	1. [[#Radmin LAN(Radmin VPN)]]
-- [[#科学上网]]
-	1. [[#Clash-for-Windows_Chinese]]
-- [[#下载工具]]
-	1. [[#IDM]]
-- [[#压缩工具]]
-	1. [[#BandiZip]]
-- 
+- [远程控制](#远程控制)
+	1. [AnyDesk](#AnyDesk)
+	2. [RustDesk](#RustDesk)
+- [虚拟局域网](#虚拟局域网)
+	1. [Radmin LAN(Radmin VPN)](#Radmin LAN(Radmin VPN)
+- [科学上网](#科学上网)
+	1. [Clash-for-Windows_Chinese](#Clash-for-Windows_Chinese)
+- [下载工具](#下载工具)
+	1. [IDM](#IDM)
+- [压缩工具](#压缩工具)
+	1. [BandiZip](#BandiZip)
 
 ---
 # 远程控制
